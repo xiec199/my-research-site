@@ -37,10 +37,10 @@ interests:
 
 # Education to show in About widget
 education:
-  - area: PhD / [Your Degree]
+  - area: PhD Biomedical Engineering
     institution: Fudan University
-    date_start: 2019-09-1
-    date_end: 2022-6-30
+    date_start: 2019-09-01
+    date_end: 2022-06-30
     summary: ''
 
 # Social/Academic Networking

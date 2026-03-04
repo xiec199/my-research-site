@@ -50,14 +50,11 @@ profiles:
     url: 'mailto:xiec199@gmail.com'
     label: E-mail Me
   - icon: brands/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Z-XpEsYAAAAJ&hl=zh-CN
     label: Google Scholar
   - icon: brands/github
-    url: https://github.com/
+    url: https://github.com/xiec199
     label: GitHub
-  - icon: brands/researchgate
-    url: https://www.researchgate.net/
-    label: ResearchGate
 ---
 
 ## About Me
