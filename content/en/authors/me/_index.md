@@ -7,7 +7,7 @@ first_name: Chao
 last_name: Xie
 
 # Status emoji
-status: Happy Brain
+status:
   icon: 🧠
 
 # Is this the primary user of the site?
@@ -47,7 +47,7 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@institution.edu'
+    url: 'mailto:xiec199@gmail.com'
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/
