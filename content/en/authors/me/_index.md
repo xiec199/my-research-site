@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Chao Xie (谢超)
+title: Chao Xie
 
 # Full name (for SEO)
 first_name: Chao
 last_name: Xie
 
 # Status emoji
-status:
+status: Happy Brain
   icon: 🧠
 
 # Is this the primary user of the site?
@@ -21,8 +21,8 @@ role: Researcher in Computational Psychiatry & Cognitive Neuroscience
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Your Institution
-    url: ''
+  - name: Tsinghua University
+    url: 'https://www.pcs.tsinghua.edu.cn/info/1010/1875.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research spans computational psychiatry, cognitive neuroscience, and AI-driven analysis of complex human naturalistic behavior.
@@ -37,11 +37,11 @@ interests:
 
 # Education to show in About widget
 education:
-  - area: PhD / [Your Degree]
-    institution: Your University
-    date_start: 2018-09-01
-    date_end: ''
-    summary: ''
+  - area: PhD
+    institution: Fudan University
+    date_start: 2019-09-01
+    date_end: 2022-06-30
+    summary: 'Biomedical engineering (BME)'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

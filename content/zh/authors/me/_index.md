@@ -4,19 +4,19 @@ title: 谢超
 first_name: 超
 last_name: 谢
 
-status:
+status: 快乐的进取者
   icon: 🧠
 
 superuser: true
 highlight_name: true
 
-role: 计算精神病学与认知神经科学研究员
+role: 计算精神病学与认知神经科学的研究者
 
 organizations:
-  - name: 您的机构
-    url: ''
+  - name: 清华大学
+    url: 'https://www.pcs.tsinghua.edu.cn/info/1010/1875.htm'
 
-bio: 研究方向为计算精神病学、认知神经科学，以及使用智能计算方法分析复杂人类自然行为。
+bio: 研究方向为计算精神病学、认知神经科学，关注精神健康与人类创造行为。
 
 interests:
   - 计算精神病学
@@ -27,14 +27,14 @@ interests:
 
 education:
   - area: 博士 / 您的学位
-    institution: 您的大学
-    date_start: 2018-09-01
-    date_end: ''
-    summary: ''
+    institution: 复旦大学
+    date_start: 2019-09-01
+    date_end: 2022-06-30
+    summary: '生物医学工程'
 
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@institution.edu'
+    url: 'xiec199@gmail.com'
     label: 发送邮件
   - icon: brands/google-scholar
     url: https://scholar.google.com/
