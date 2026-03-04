@@ -1,0 +1,17 @@
+# 中文导航菜单
+main:
+  - name: 主页
+    url: /zh/
+    weight: 10
+  - name: 论文
+    url: /zh/#papers
+    weight: 20
+  - name: 研究方向
+    url: /zh/research/
+    weight: 30
+  - name: 合作网络
+    url: /zh/collaborators/
+    weight: 40
+  - name: 联系
+    url: /zh/#contact
+    weight: 50

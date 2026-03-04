@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": "me",
+      "name": "Chao Xie",
+      "nameCN": "谢超",
+      "group": "self",
+      "affiliation": "Tsinghua University",
+      "affiliationCN": "清华大学",
+      "url": "",
+      "papers": 0
+    },
+    {
+      "id": "collab-domestic-1",
+      "name": "Tianye Jia",
+      "nameCN": "贾天野",
+      "group": "domestic",
+      "affiliation": "Peking University",
+      "affiliationCN": "北京大学",
+      "url": "https://scholar.google.com/citations?user=4q3pussAAAAJ&hl=zh-CN"
+    },
+    {
+      "id": "collab-domestic-2",
+      "name": "Jianfeng Feng",
+      "nameCN": "冯建峰",
+      "group": "domestic",
+      "affiliation": "Fudan University",
+      "affiliationCN": "复旦大学",
+      "url": "https://scholar.google.com/citations?user=0MtAVz4AAAAJ&hl=zh-CN"
+    },
+    {
+      "id": "collab-domestic-3",
+      "name": "Trevor Robbins",
+      "nameCN": "Trevor Robbins",
+      "group": "international",
+      "affiliation": "University of Cambridge",
+      "affiliationCN": "剑桥大学",
+      "url": "https://scholar.google.com/citations?user=7vl9HdwAAAAJ&hl=zh-CN"
+    },
+    {
+      "id": "collab-intl-1",
+      "name": "Barbara J Sahakian",
+      "nameCN": "Barbara J Sahakian",
+      "group": "international",
+      "affiliation": "University of Cambridge",
+      "affiliationCN": "剑桥大学",
+      "url": "https://scholar.google.com/citations?user=gOAdhEoAAAAJ&hl=zh-CN"
+    },
+    {
+      "id": "collab-intl-2",
+      "name": "Gunter Shumman",
+      "nameCN": "Gunter Shumman",
+      "group": "international",
+      "affiliation": "Charité – Universitätsmedizin Berlin",
+      "affiliationCN": "Charité – Universitätsmedizin Berlin",
+      "url": "https://scholar.google.com/citations?user=e8q7A28AAAAJ&hl=zh-CN&oi=ao"
+    },
+    {
+      "id": "student-1",
+      "name": "Chenglu Ma",
+      "nameCN": "马晨露",
+      "group": "student",
+      "affiliation": "The University of Edinburgh",
+      "affiliationCN": "爱丁堡大学",
+      "url": ""
+    }
+  ],
+  "links": [
+    { "source": "me", "target": "collab-domestic-1", "papers": 5 },
+    { "source": "me", "target": "collab-domestic-2", "papers": 8 },
+    { "source": "me", "target": "collab-domestic-3", "papers": 3 },
+    { "source": "me", "target": "collab-intl-1", "papers": 4 },
+    { "source": "me", "target": "collab-intl-2", "papers": 2 },
+    { "source": "me", "target": "student-1", "papers": 2 },
+    { "source": "collab-domestic-1", "target": "collab-intl-1", "papers": 2 }
+  ]
+}
