@@ -67,3 +67,6 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# Large PDF files (upload separately or link externally)
+*.pdf
