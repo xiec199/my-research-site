@@ -4,7 +4,7 @@ title: 谢超
 first_name: 超
 last_name: 谢
 
-status: 快乐的进取者
+status:
   icon: 🧠
 
 superuser: true
@@ -34,7 +34,7 @@ education:
 
 profiles:
   - icon: at-symbol
-    url: 'xiec199@gmail.com'
+    url: 'mailto:xiec199@gmail.com'
     label: 发送邮件
   - icon: brands/google-scholar
     url: https://scholar.google.com/
